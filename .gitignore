@@ -1,0 +1,23 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+node
+
+### VS Code ###
+.vscode/
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+node-modules
+
+# IDEs and editors
+.project
+.classpath
+.settings/
+
+# System Files
+.DS_Store
+Thumbs.db
+node_modules
